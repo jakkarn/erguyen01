@@ -1,2 +1,2 @@
 # erguyen01
-Small game projects with erik
+Small game project with erik
